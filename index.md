@@ -1,4 +1,4 @@
-#Talita Ferreira Amado, Ph.D.
+# Talita Ferreira Amado, Ph.D.
 
 ## Welcome to Talita F. Amado's personal page
 
