@@ -1,8 +1,8 @@
 # Talita Ferreira Amado, Ph.D.
 
-## Science in a diverse world
+## Science & Art
 
-_
+_Sciences provide an understanding of a universal experience, Arts are a universal understanding of a personal experience... they are both a part of us and a manifestation of the same thing..._ Mae Jeminson
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
