@@ -4,10 +4,9 @@
 
 _'In nature nothing exists alone' -Rachel Carson_ 
 
-During their first decades, macroecology and macroevolution grew as separated fields. However, due to the complexity of nature on Earth, both macro fields need to reconnect to allow us to understand how life vary in the planet.
+Nature on Earth is complex and originated from several processes. Therefore, there is no simple and clear approach to understand how life evolved and was distributed on the planet.   
 
 As a scientist, I have been interested in different topics (natural history, behaviour, evolution, ecology). Hence, my research incorporates diverse techniques and data to answer questions about the origins of biological diversity at large temporal and spatial scales. 
-
 
 
 
