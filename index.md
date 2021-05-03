@@ -1,8 +1,16 @@
 # Talita Ferreira Amado, Ph.D.
 
-## Science & Art
+## Macroecology & Macroevolution
 
-_Sciences provide an understanding of a universal experience, Arts are a universal understanding of a personal experience... they are both a part of us and a manifestation of the same thing... -Mae Jeminson_ 
+_'In nature nothing exists alone' -Rachel Carson_ 
+
+During their first decades, macroecology and macroevolution grew as separated fields. However, due to the complexity of nature on Earth, both macro fields need to reconnect to allow us to understand how life vary in the planet.
+
+As a scientist, I have been interested in different topics (natural history, behaviour, evolution, ecology). Hence, my research incorporates diverse techniques and data to answer questions about the origins of biological diversity at large temporal and spatial scales. 
+
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
