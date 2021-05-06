@@ -4,14 +4,11 @@
 
 _'In nature nothing exists alone' -Rachel Carson_ 
 
-Nature on Earth is complex and originated from several processes. Therefore, there is no simple and clear approach to understand how life evolved and was distributed on the planet.   
+Nature on Earth is complex and originated from several processes. Therefore, there is no simple approach to understand how life evolved and is distributed on the planet.
 
-As a scientist, I have been interested in different topics (natural history, behaviour, evolution, ecology). Hence, my research incorporates diverse techniques and data to answer questions about the origins of biological diversity at large temporal and spatial scales. 
-
-
+As a scientist, I have been interested in different topics (natural history, behaviour, evolution, ecology). Hence, my research incorporates diverse techniques and data to answer questions about the origins of biological diversity at large temporal and spatial scales.
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
